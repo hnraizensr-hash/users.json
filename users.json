@@ -1,6 +1,9 @@
 {
   "users": [
-    { "username": "admin", "password": "admin123" },
-    { "username": "user1", "password": "test123" }
+    {
+      "username": "try",
+      "password": "12345",
+      "hwid": "SAME_HWID"
+    }
   ]
 }
